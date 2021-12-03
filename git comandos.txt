@@ -16,3 +16,17 @@
 
 8-git reflog...mostra o histórico de alterações dos códigos(copiar o  da versão desejada e copiar e usar git reset --hard e colar o id) irá restaurar a versão selecionada
 
+#Branches :
+
+branches são como "galhos" ou ramos, neste caso é a ramificação do codigo, por padrão a branch do git hub recebe o nome de main,´útil em caso de um trabalho em equipe, cada um usa sua própria branch e depois podem colocar as funcionalidades para a branch principal através do "merge"
+
+1- git branch... mostras as branchs disponiveis no momento
+
+2-git branch "nome da branch"...criar nova branch
+
+a branch marcada em verde significa que é a que está sendo usada no momento
+
+3- git checkout "nome da branch"...muda para a branch que voce selecionou
+
+
+
