@@ -1,0 +1,10 @@
+#comandos básicos de git
+
+1- git init  ... inicia um repositorio vazio
+
+2-git clone ... clona um repositorio da nuvem na maquina
+
+3-git add ...adiciona as mudanças do codigo ao versionamento
+
+4-git status...mostra o estado dos arquios que foram modificados
+
