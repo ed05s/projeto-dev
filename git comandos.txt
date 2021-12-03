@@ -47,5 +47,9 @@ Antes de entrar na branch principal e fazer o merge é importante fazero pull (p
  1-git pull...vsi trazer as atualizações do servidor para a maquina local
 git pull da branch principal, gerar nova branch a partir  da branch principal,trabalhar e adicionar novas funcionalidades na nova branch, finalizar o tabalho nessa branch, mergiar,e fazer um git push da branch principal
 
+sempre mudar para a branch principal e dar um pull antes de fazer o merge
+o merge é feito com "git merge + branch atualizada", e a branch principa será atualizada
 
+-pull request : pull requeste é uma requisição para mergiar seu código a branch principal
+deve-se fazer o pull e especificar as mudanças em um campo onde voce vai descrever as atualizações feitas, sua requisição sera validada ou não
 
