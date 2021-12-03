@@ -28,5 +28,24 @@ a branch marcada em verde significa que é a que está sendo usada no momento
 
 3- git checkout "nome da branch"...muda para a branch que voce selecionou
 
+#é importante lembrar de usar o comando (git push --set upstream "branch nova" para que a branche seja usada no servidor remoto)
+
+
+
+#Merge :
+
+merge vai unir os codigos das branches, deixar a branch principal atualizada
+
+- entrar a branch principal ( git branch "branch principal" "git checkout + branche principa")
+
+- dar um (git merge + nome da branch de onde virá as atualizações)
+
+  1- git merge...vai unir os codigos da branch que voce quer pegar os códigos atualizados
+
+Antes de entrar na branch principal e fazer o merge é importante fazero pull (pushar as atualizações do servidor)
+
+ 1-git pull...vsi trazer as atualizações do servidor para a maquina local
+git pull da branch principal, gerar nova branch a partir  da branch principal,trabalhar e adicionar novas funcionalidades na nova branch, finalizar o tabalho nessa branch, mergiar,e fazer um git push da branch principal
+
 
 
