@@ -14,5 +14,5 @@
 
 7-git remote  --set upstream main...define qual a branch para onde os arquivos irão
 
-
+8-git reflog...mostra o histórico de alterações dos códigos(copiar o  da versão desejada e copiar e usar git reset --hard e colar o id) irá restaurar a versão selecionada
 
