@@ -8,3 +8,11 @@
 
 4-git status...mostra o estado dos arquios que foram modificados
 
+5-git commit -m...faz o commit e inlcui a descreição do commit
+
+6-git remote add +url do repositorio...define o endereço online do pra onde os arquivos vão
+
+7-git remote  --set upstream main...define qual a branch para onde os arquivos irão
+
+
+
