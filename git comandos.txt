@@ -53,3 +53,6 @@ o merge é feito com "git merge + branch atualizada", e a branch principa será 
 -pull request : pull requeste é uma requisição para mergiar seu código a branch principal
 deve-se fazer o pull e especificar as mudanças em um campo onde voce vai descrever as atualizações feitas, sua requisição sera validada ou não
 
+Gt ignore :
+o git ignore vai ignorar arquivos que voce nao quer no controle de versão atraves do comando ( touch ,gitignore) ira gerar um arquivo de texto onde voce ira especificar quais arquivos não devem ir para o controle de versão ( arquivo/ctrl+s) para pastas
+
