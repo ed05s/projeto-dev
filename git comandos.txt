@@ -12,7 +12,7 @@
 
 6-git remote add +url do repositorio...define o endereço online do pra onde os arquivos vão
 
-7-git remote  --set upstream main...define qual a branch para onde os arquivos irão
+7-git remote  --set upstream + (nome da branch no servidor remoto)...define qual a branch para onde os arquivos irão
 
 8-git reflog...mostra o histórico de alterações dos códigos(copiar o  da versão desejada e copiar e usar git reset --hard e colar o id) irá restaurar a versão selecionada
 
