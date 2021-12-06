@@ -1,4 +1,4 @@
-#comandos básicos de git
+#comandos básicos para começar no git
 
 1- git init  ... inicia um repositorio vazio
 
